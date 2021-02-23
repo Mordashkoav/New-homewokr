@@ -1,0 +1,62 @@
+html, body {
+    padding: 0;
+    margin: 0;
+}
+body {
+    font-size: 16px;
+    width: 1920px;
+    height: 5643px;
+
+}
+* {
+    box-sizing: border-box;
+}
+.head {
+    background-image: url("Rectangle.png");   
+    width: 1920px;
+    height: 900px;
+    }
+.head-nav {
+    
+}
+.head-nav-list {
+    display: flex;
+    padding: 0;
+    list-style: none;
+    margin-left: 952px;
+    height: 100px;
+    align-items: center;
+}
+.head-nav-item {
+    margin-right: 40px;
+}
+.head-nav-item a {
+    font-family: Montserrat;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+.peredovaya {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    margin-top: 320px;
+    font-family: Montserrat;
+    color: white;
+}
+.mysozdaem {
+    font-size: 48px;
+    font-weight: 800;
+    width: 820px;
+    text-align: ;
+}
+.bott-nas-pro {
+    width: 100;
+    height: 45;
+    border-radius: 30px;
+    background-color: rgb(92, 92, 202);
+    color: cornsilk;
+}
+.vys-stand-up {
+    display: flex;
+}
